@@ -1,4 +1,4 @@
-<div>
+<div aling="center">
 
   <h1 aling="center">Hi,I am Mauricio</h1>
   
