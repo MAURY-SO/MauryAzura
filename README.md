@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">console.log("Hi, I am Mauricio 👋")</h1>
 
-<img src="/portada.png">
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif">
 
 # 🎧 I'm listening to...
 
