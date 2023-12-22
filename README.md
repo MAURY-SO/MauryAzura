@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I am Mauricio 👋</h1>
+<h1 align="center">console.log("Hi, I am Mauricio 👋")</h1>
 
 <img src="/portada.png">
 
