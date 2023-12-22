@@ -2,6 +2,10 @@
 <h1 align="center">console.log("Hi, I am Mauricio 👋")</h1>
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif">
+<p align="left">
+Hello everyone,
+Today, I'd like to introduce you to Mauricio, an 18-year-old technology enthusiast who has a profound passion for programming and self-driven learning. He is currently pursuing a degree in Computer Systems Engineering and has a diverse skill set in CSS, HTML, Java, C++, and Python.
+</p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ak7tnwxckkq4lblkjnh5enrkze&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
