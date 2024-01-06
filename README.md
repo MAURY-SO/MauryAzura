@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">console.log("Hi, I am Mauricio") <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /></h1>
+<h1 align="center">print("Hi, I am Mauricio") <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /></h1>
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif">
 <p align="left">
