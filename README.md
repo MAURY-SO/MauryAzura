@@ -8,6 +8,8 @@ Hello, I'm Mauricio. I'm 18 years old and I'm a systems engineering student. I'm
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ak7tnwxckkq4lblkjnh5enrkze&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+- <img alt="tulip random" title="tulip random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643516157/21810/tulip.png?1643516157" width=23> I love tulips 
+
 ## I am interested in:
 
 - <img alt="a yellow and blue snake with a black background" title="python logo" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514044/32/python.png?1643514044" width=22> Python (programming language)
