@@ -19,4 +19,8 @@ Hello, I'm Mauricio. I'm 18 years old and I'm a systems engineering student. I'm
 
 ![Maury's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauryAzura&theme=react&layout=compact&hide=HTML)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MauryAzura)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 </div>
