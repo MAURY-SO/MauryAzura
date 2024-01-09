@@ -23,10 +23,6 @@ Hello, I'm Mauricio. I'm 18 years old and I'm a systems engineering student. I'm
 
 <!--START_SECTION:waka-->
 
-```txt
-Python   1 hr 7 mins     █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 </div>
