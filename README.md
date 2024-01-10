@@ -1,6 +1,14 @@
 <div align="center">
 <h1 align="center">print("Hi, I am Mauricio") <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /></h1>
 <img src="/tulips.jpg">
+  
+<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+<img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
+
 <!--<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif">-->
 <p align="left">
 Hello, I'm Mauricio. I'm 18 years old and I'm a systems engineering student. I'm passionate about technology, programming, and Linux. Currently, I'm studying, but it hasn't been a barrier to learning on my own and developing my skills. I am self-taught and can learn independently without any issues. Additionally, I enjoy experimenting with technology. <img alt="a cat that is sitting on a laptop" title="typingcat random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width=22>
