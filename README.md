@@ -29,6 +29,8 @@ Hello, I'm Mauricio. I'm 18 years old and I'm a systems engineering student. I'm
 
 ![Maury's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauryAzura&theme=react&layout=compact&hide=HTML)
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MauryAzura&theme=xcode"/>
 <!--START_SECTION:waka-->
 
 ```txt
