@@ -34,6 +34,12 @@ Hello, I'm Mauricio. I'm 18 years old and I'm a systems engineering student. I'm
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   1 hr 56 mins    ███████████████████▒░░░░░   77.11 %
+Java     34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+```
+
 <!--END_SECTION:waka-->
 
 
