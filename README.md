@@ -33,6 +33,8 @@ Hello, I'm Mauricio. I'm 18 years old and I'm a systems engineering student. I'm
 ![Maury's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauryAzura&theme=react&layout=compact&hide=HTML)
 
 
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
+
 <!--START_SECTION:waka-->
 
 ```txt
