@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">print("Hi, I am Mauricio") <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /></h1>
-<img src="/tulips.jpg">
+<img src="/flowers.jpg">
         
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
