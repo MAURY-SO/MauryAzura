@@ -30,10 +30,10 @@ Hello, I'm Mauricio. I'm 18 years old and I'm a systems engineering student. I'm
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 09 April 2024 - To: 16 April 2024
 
-Java     4 hrs 50 mins   ████████████████████████▓   98.57 %
-Python   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Java     4 hrs 37 mins   ████████████████████████▓   98.51 %
+Python   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
