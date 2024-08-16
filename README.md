@@ -13,8 +13,7 @@
 <p align="left">
 Hello, I'm Mauricio. I'm 18 years old and I'm a systems engineering student. I'm passionate about technology, programming, and Linux. Currently, I'm studying, but it hasn't been a barrier to learning on my own and developing my skills. I am self-taught and can learn independently without any issues. Additionally, I enjoy experimenting with technology. <img alt="a cat that is sitting on a laptop" title="typingcat random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width=22>
 </p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ak7tnwxckkq4lblkjnh5enrkze&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ak7tnwxckkq4lblkjnh5enrkze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ##
 ## I am interested in:
 
