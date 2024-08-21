@@ -32,7 +32,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-![Maury's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauryAzura&theme=react&layout=compact&hide=HTML)
+![Maury's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAURY-SO&theme=react&layout=compact&hide=HTML)
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
 </div>
